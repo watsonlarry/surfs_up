@@ -6,11 +6,17 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 ### Results
 
 June temperatures:
+
 64°f, min
+
 75°f, mean
+
 85°f, max
 
 December temperatures:
+
 56°f, min
+
 70°f, mean
+
 83°f, max
