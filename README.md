@@ -5,7 +5,7 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 
 ### Results
 
-June temperatures:
+**June temperatures:
 
 64°f, min
 
@@ -13,10 +13,14 @@ June temperatures:
 
 85°f, max
 
-December temperatures:
+![June](https://github.com/watsonlarry/surfs_up/blob/main/resources/june_data.png)
+
+**December temperatures:
 
 56°f, min
 
 70°f, mean
 
 83°f, max
+
+![december](https://github.com/watsonlarry/surfs_up/blob/main/resources/december_data.png)
