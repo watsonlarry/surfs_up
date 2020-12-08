@@ -27,5 +27,5 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 
 ### Summary
 
-The temperature differences between June and December look to be marginal. The data presents a pretty consistant temperature for Oahu year-round. There are not extreme differences in average temperatures between opposite seasons. If the people of Oahu like ice-cream in June, it stands to reason that they would enjoy it in December as well. 
+The temperature differences between June and December look to be marginal. The data presents a pretty consistant temperature for Oahu year-round. There are not extreme differences in average temperatures between opposite seasons. If the people of Oahu like ice-cream & surfing in June, it stands to reason that they would enjoy it in December as well. To get fuller picture of Oahu's annual temperature profile, I might suggest inquiries into March and September's data. We'd have a picture of the island's temperature from each season of the year. This would help us to verify the temperature's stability throughout the year.
 
