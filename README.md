@@ -19,8 +19,13 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 
 56°f, min
 
-70°f, mean
+71°f, mean
 
 83°f, max
 
 ![december](https://github.com/watsonlarry/surfs_up/blob/main/resources/december_data.png)
+
+### Summary
+
+The temperature differences between June and December look to be marginal. The data presents a pretty consistant temperature for Oahu year-round. There are not extreme differences in average temperatures between opposite seasons. If the people of Oahu like ice-cream in June, it stands to reason that they would enjoy it in December as well. 
+
