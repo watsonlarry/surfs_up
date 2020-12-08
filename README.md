@@ -5,7 +5,7 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 
 ### Results
 
-**June temperatures:
+**June temperatures:**
 
 64°f, min
 
@@ -15,7 +15,7 @@ W. Avy (!) is opening an ice-cream and surf shop in Oahu. Mr. Avy's asked us to 
 
 ![June](https://github.com/watsonlarry/surfs_up/blob/main/resources/june_data.png)
 
-**December temperatures:
+**December temperatures:**
 
 56°f, min
 
